@@ -93,7 +93,7 @@ Different ways to get your `SESSION`:
 * PowerShell : `cd desktop ; wget https://git.io/JY9JI ; python ultroid.py`
 * Termux : `sh -c "$(curl -fsSL https://da.gd/termux-tel)"`
 
-Made with 💕 by [@TeamUltroid](https://t.me/TeamUltroid). <br />
+Made with 💕 by [Rᴇᴢʏ](https://t.me/ItsmeAlsya). <br />
 
 # License
 Ultroid is licensed under [GNU Affero General Public License](https://www.gnu.org/licenses/agpl-3.0.en.html) v3 or later.
@@ -101,6 +101,7 @@ Ultroid is licensed under [GNU Affero General Public License](https://www.gnu.or
 [![License](https://www.gnu.org/graphics/agplv3-155x51.png)](LICENSE)
 
 # Credits
+* [Rᴇᴢʏ](https://t.me/ItsmeAlsya)
 * [![TeamUltroid-Devs](https://img.shields.io/static/v1?label=Teamultroid&message=devs&color=critical)](https://t.me/UltroidDevs)
 * [Lonami](https://github.com/LonamiWebs/) for [Telethon.](https://github.com/LonamiWebs/Telethon)
 * [AndrewLaneX](https://github.com/AndrewLaneX) for [tgcalls.](http://github.com/tgcallsjs/tgcalls)
